@@ -6,6 +6,7 @@ import UserInfo from "./UserInfo";
 const App = () => {
   return (
     <div>
+      <h1>User Information</h1>
       <UserInfo/>
     </div>
   )

@@ -28,7 +28,7 @@ const UserInfo = () => {
             </div>
             <p>Current values in store:</p>
 
-            <div>
+            <div className='output'>
                 <span>Name -</span>  <span>{Name}</span>
                 <br></br>
                 <br></br>
